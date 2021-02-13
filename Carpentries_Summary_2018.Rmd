@@ -1,0 +1,107 @@
+---
+title: "USU Carpentries 2018"
+output:
+  html_document: default
+  pdf_document: default
+---
+<br>  
+  
+### Software and Data Carpentry Workshops combined into 14 two-hour lectures.  
+  
+#### Classes were on Monday and Wednesday mornings, 05 Sept. 2018 through 22 Oct. 2018. 
+  
+##### We ran out of time before we could cover the lesson on plotting in python in the Data Carpentries section. Some students requested an additional class, so we added an additional, 15th, two-hour class on 24 Oct. 2018.   
+<br>  
+  
+####Instructors:  
+Binod Pokharel  
+Paul Wolf  
+Mallory Hagadorn  
+Betty Rozum  
+Curtis Dyreson  
+Carol Rowe  
+  
+<br>  
+
+### Background:  
+**Past Carpentries Workshops at USU **(that I am aware of):  
+Apr. 14-15, 2012  
+Mar. 23-24, 2013  
+Sep. 09-10, 2017 (Software Carpentry)  
+Sept. 29-30, 2017 (Data Carpentry)  
+
+**My Carpentries experince (since I drew from my experience to decide how to format the workshop):**  
+Student of Carpentries Workshops  
+Student of 3-credit course heavily inspired by the Carpentries  
+Certified Carpentries Instructor  
+Carpentries Workshops: helper, instructor, and organizer  
+
+**Format and Why:**  
+While the Carpentries Workshops are great for exposing students to ideas and possibilities, they alone are not an effective means for teaching and enforcing the coding and data science skills such that students will leave being able to apply the new knowledge to their own data. There does not currently appear to be any course on campus where studens can further develop these Unix Shell, Python, SQL, OpenRefine, and Git skills. Since offering this as a course was not an option, I decided to offer the Carpentries Workshops in an alternative format of two hour lectures, twice per week for a total of 14 classes. Software Carpentry lessons were covered in the first 7 classes, and Data Carpentry lessons were covered in the remaining 7 classes. Students could sign up for one or both workshops. A $10 fee was charged for each workshop. We set a cap at 20 students, though we accepted more knowing that there would very likely be some students that would drop out.  
+  
+Here are the links to the workshops:  
+Software Carpentry:  
+https://carol-rowe666.github.io/2018-09-usu/    
+  
+Data Carpentry:  
+https://carol-rowe666.github.io/2018-10-USU-DataCarpentry/  
+  
+Classes were run as like any other Carpentries Workshop: colored sticky notes utilized, helpers available, etc. We created an Etherpad in the first class for notes/comments and providing links, but decided it was more of a distraction than a help.  
+  
+## The students:  
+  + We targeted USU graduate students from various departments including: Biology, Chemistry and Biochemistry, Environment and Society, Civil and Environmental Engineering, Watershed Science, and Plants, Siols, and Climate.  
+  + Students ranged from first year graduate to those within about a year of completing a PhD.  
+  + We advertised through department graduate student email lists.  
+  
+  
+## Attendance:  
+  
+Our finding was similar to that observed by Justin Millar, Shawn Taylor, Ben Kok Toh, and Ethan White as noted in their blog:  
+https://datacarpentry.org/blog/2018/04/dc-seven-weeks  
+  
+<br>  
+![](/Users/carolrowe/Dropbox/Carpentries_2018/Carpentry_Class_Counts.png)  
+  
+  
+**Note:** Attendance was not taken on four of the days. An estimate was provided for those days.  
+**Note:** The last 3 classes of the Data Carpentry Workshop were low. However, I had 3 students notify me **in advance** that they had other obligations and could not make those classes.  
+  
+<br<<br>  
+As anticipated, attendance was lower than the 20-student cap. Though we tried to schedule to meet the needs of as many graduate students (our target audience) as possible, there were those with timing conflicts. In the Software Carpentries Workshop, we had about 3 students who had to leave a half-hour early to attend other courses. Likewise, we only charged a minimal fee, and there is no other obligation to attend the workshops other than self-motivation. Hence, it becomes easy to let other last-minute obligations and commitments intervene and then subsequently drop the workshop.  
+  
+## Observations and Thoughts:  
+1) Though we didn't reach the 20-student cap, we had an excellent cohort of dedicated students who were eager to learn.   
+  
+2) More efficeint use of time as compared to the traditional workshop. The 2-day intense workshop format often leads to fatigue and requires many breaks, lunch, etc. We often still included a short break within each class. Yet, we were able to cover more of the material in the Carpentries lessons, and allow for the students to work on more of the in-class exercises.   
+  
+3) With more time between lessons, there is more opportunity for the students to practice what they have learned to better master the material. Additionally, I encouraged the students to stop by my office and/or email if they had further questions/problems.  
+  
+4) Requests for additional homework. By request in the Software Carpentries section, a few extra assignments were created and emailed to all participants. After a few days, detailed, written answers were sent out. I have no follow-up feedback from the extra homework; getting feedback was a bit of a challenge from this group.  
+  
+
+## What we would change:  
+  + Students liked having the in-class exercises/challenges. Perhaps find a way to allow more time for that.  
+  + Not sure how the additonal homework was received. With the lack of feedback, I wonder if I made the problems too challenging. More in-class challenges would, I think, be much better than the optional homework.  
+  + Advertise through more avenues. Some students commented that they heard about the workshop through other students. Recommended using fliers and social media. (We had advertised through department graduate student email lists.)   
+  
+
+## Student feedback:  
+  + Beginning graduate students commented that they were glad to have taken the course before they started collecting data to see how to better structure their data to avoid problems downstream.    
+  + Some were glad to see what can be done so they can start working on these skills early on in their graduate studies.  
+  + Some of the "later stage" students commented: "I wish I knew how to do this before. It would have saved me so much time." While others were happy to add to their toolbox of skills.  
+  + When asked about the format and if it should be a graded or pass/fail class, one student (with other programming experience) replied:  
+"Nope – I prefer it as a workshop, mainly because I can pick and choose which components are most useful (as opposed to doing homework or worrying about a grade for stuff that is less useful). Pass/Fail would be ok though."  
+  
+Few other comments:  
+Negatives:  
+"Increase the number of classes/duration for python"  
+"Too long of a time commitment, which makes it very difficult to attend each workshop fully."  
+"This was not a beginner workshop in my opinion."  
+"Not stopping to address individual questions (that's what helpers are for)"  
+  
+Postives:  
+"It was a comfortable pace and the number of teachers meant people could get help without holding up the class."  
+"Working with data Website lesson we could follow along with (and that's free to access afterwards)"  
+"Instructors committed to answering questions thoroughyl [*sic*]."  
+
+
